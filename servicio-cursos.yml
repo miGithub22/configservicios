@@ -1,7 +1,7 @@
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.datasource.url=jdbc:mysql://localhost:3306/academia
-spring.datasource.username=root
-spring.datasource.password=root
+spring.datasource.url=jdbc:mysql://db4free.net:3306/academia
+spring.datasource.username=academia2user
+spring.datasource.password=academia2user
 
 #propiedades para que hibernate cree adecuadamente las instrucciones SQL
 spring.jpa.hibernate.naming.implicit-strategy=org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
