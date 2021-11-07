@@ -1,5 +1,5 @@
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.datasource.url=jdbc:mysql://db4free.net:3306/academia
+spring.datasource.url=jdbc:mysql://db4free.net:3306/academiaspring
 spring.datasource.username=academia2user
 spring.datasource.password=academia2user
 
